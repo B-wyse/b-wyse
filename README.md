@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi world, welcome to my github 👋
 
 <!--
 **B-wyse/b-wyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
