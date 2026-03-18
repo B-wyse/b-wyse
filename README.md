@@ -58,10 +58,10 @@ Workflow Automation · CRM Systems · Content Architecture · Lead Generation Sy
 
 A few repos worth exploring:
 
-- [**Project One**](https://b-wyse.com/) — Short outcome-focused description.
-- [**Project Two**](https://aitrainingcenter.eu/) — Short founder-style pitch.
-- [**Project Three**](https://kynth.agency/) — Short explanation of the experiment or product.
-
+- [**B-WYSE**](https://b-wyse.com/) — A platform built to help people and businesses grow through skill development, clear thinking, and modern digital experiences.
+- [**AI Training Center**](https://aitrainingcenter.eu/) — Turning AI into practical capability through training, implementation, and systems that help teams work smarter.
+- [**KYNTH Agency**](https://kynth.agency/) — A creative and digital agency exploring how AI, design, and automation can shape sharper brands and better business systems.
+  
 ## Connect
 
 - Website: comming soon  - 
