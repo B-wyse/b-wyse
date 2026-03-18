@@ -40,9 +40,20 @@ To me, that means:
 
 ## Tech / Tools
 
-Add your real stack here. For example:
+**Languages & Markup**  
+JavaScript · TypeScript · HTML · CSS · JSON
 
-`Python` `JavaScript` `TypeScript` `Node.js` `React` `Next.js` `Supabase` `Postgres` `Docker`
+**Frontend & UX**  
+React · Vite · Tailwind CSS · Framer Motion · Responsive Design · Component-Based UI
+
+**Backend & Data**  
+Supabase · PostgreSQL · pgvector · Edge Functions · REST APIs · Database Design · RLS
+
+**AI & Automation**  
+OpenAI API · Prompt Engineering · RAG Pipelines · AI Agents · n8n · Webhooks · Notion API
+
+**Systems & Operations**  
+Workflow Automation · CRM Systems · Content Architecture · Lead Generation Systems · GitHub Actions
 
 ## Selected work
 
