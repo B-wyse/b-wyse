@@ -16,9 +16,8 @@ I’m interested in building things that are useful, simple, and durable — pro
 
 Here are a few things I’m working on:
 
-- **[Project One](https://github.com/yourusername/project-one)** — One-line description of what it does and why it matters.
-- **[Project Two](https://github.com/yourusername/project-two)** — One-line description of the problem it solves.
-- **[Project Three](https://github.com/yourusername/project-three)** — One-line description with a sharp outcome.
+- **[B-WYSE]** — A platform focused on growth, skill development, and modern digital experiences built to help people and businesses evolve with clarity and purpose.
+- **[AI Training Center]** — An AI education and implementation platform designed to turn complexity into practical capability through training, systems, and applied learning.
 
 ## Philosophy
 
